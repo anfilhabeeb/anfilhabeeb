@@ -6,9 +6,9 @@
 
 **Building intelligent software, computer-vision systems, and practical AI solutions.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-anfilhabeeb-181717?style=for-the-badge&logo=github)](https://github.com/anfilhabeeb)
-[![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-7C3AED?style=for-the-badge)](#)
-[![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-0891B2?style=for-the-badge)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-anfilhabeeb-243B55?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anfilhabeeb)
+[![Focus](https://img.shields.io/badge/Focus-AI%20%26%20Computer%20Vision-007F86?style=for-the-badge&logoColor=white)](#)
+[![Experience](https://img.shields.io/badge/Experience-20%2B%20Years-5941A9?style=for-the-badge&logoColor=white)](#)
 
 </div>
 
